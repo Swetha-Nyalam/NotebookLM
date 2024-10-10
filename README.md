@@ -1,0 +1,2 @@
+# NotebookLM
+Inspired from NotebookLM
